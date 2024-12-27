@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zadam/trilium.git"
+    "url": "https://github.com/PartnaStudio/trilium.git"
   },
   "scripts": {
     "start": "npm run webpack-build && npm run start-server",
@@ -109,8 +109,8 @@
     "turndown": "7.1.2",
     "unescape": "1.0.1",
     "ws": "8.16.0",
-    "webpack": "5.90.3",
-    "webpack-cli": "5.1.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4",
     "xml2js": "0.6.2",
     "yauzl": "3.1.2"
   },
